@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2554fdd5.chunk.css",
+    "main.js": "/static/js/main.46ca36a4.chunk.js",
+    "main.js.map": "/static/js/main.46ca36a4.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.155bdec3.js",
+    "runtime~main.js.map": "/static/js/runtime~main.155bdec3.js.map",
+    "static/js/2.c7f14956.chunk.js": "/static/js/2.c7f14956.chunk.js",
+    "static/js/2.c7f14956.chunk.js.map": "/static/js/2.c7f14956.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ec9a4dd875a05b21a43d4ca48c121f0b.js": "/precache-manifest.ec9a4dd875a05b21a43d4ca48c121f0b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.2554fdd5.chunk.css.map": "/static/css/main.2554fdd5.chunk.css.map",
+    "static/media/cherries.png": "/static/media/cherries.7c374247.png",
+    "static/media/sample.png": "/static/media/sample.48a5081c.png"
+  }
+}

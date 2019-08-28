@@ -1,0 +1,71 @@
+
+.inputArea{
+  height: 200px;
+  width: 100%;
+  float:left;
+  display:block;
+}
+.inputArea::placeholder{
+  font-size: 30px
+}
+
+.inputAndSummary{
+  margin-left: 200px;
+  margin-right:200px;
+  height: 350px;
+}
+
+.relationalImage{
+  width:50%;
+  height:auto
+}
+
+
+
+.AreaWrapper {
+  display:block;
+  height: 200px;
+  float:left;
+  width:100%;
+  display:block;
+}
+
+#summarizeButton {
+  margin-top: 30px;
+  display: inline;
+  width:100%
+}
+
+
+.summaryWrapper{
+  margin-left:200px;
+  margin-right:200px;
+  text-align:center;
+}
+
+.abstractWrapper{
+  width:100%;
+  display:inline-block;
+}
+
+.RelationExtraction{
+  width:100%;
+  display:inline-block;
+}
+
+
+.summaries{
+  padding-top:50px;
+  padding-bottom:50px;
+  width: 100%;
+  height: auto;
+}
+
+.relationalHead{
+  margin-top:50px;
+}
+
+.RelationExtraction{
+  margin-top:50px;
+  text-align: center;
+}
